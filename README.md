@@ -2,7 +2,9 @@
 
 ## Hardware design
 
-![Schematic](hardware/schematic.png)
+![Schematic](hardware/schematic_retro-comm_2026-05-27.png)
+
+![](hardware/image.png)
 
 ## Implementation
 
